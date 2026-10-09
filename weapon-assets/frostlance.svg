@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <defs><linearGradient id="ice" x1="25" y1="5" x2="38" y2="29" gradientUnits="userSpaceOnUse"><stop stop-color="#F2FFFF"/><stop offset=".45" stop-color="#9DE7F2"/><stop offset="1" stop-color="#469BBF"/></linearGradient></defs>
+  <g transform="rotate(45 32 32)" stroke="#17343C" stroke-width="1.3" stroke-linejoin="round">
+    <path d="M30.5 25H33.5V56H30.5Z" fill="#84B4C2"/>
+    <path d="M32 26V52" stroke="#C3EBED" stroke-width="1"/>
+    <path d="M32 3 39 22 34 30H30L25 22Z" fill="url(#ice)"/>
+    <path d="m32 5 0 24 5-8Z" fill="#B0F6FF" stroke="none"/>
+    <path d="m32 6-5 16 5 6" stroke="#F2FFFF" stroke-width="1"/>
+    <path d="m26 24-6-7 3 13 8 3 1-4 1 4 8-3 3-13-6 7-6 5Z" fill="#63B8D2"/>
+    <path d="m22 20 3 9 4 1m13-10-3 9-4 1" stroke="#D1F8FA" stroke-width="1"/>
+    <path d="M30 41H34V49H30Z" fill="#456377"/>
+    <path d="m30 43 4 2m-4 1 4 2" stroke="#A4CED7" stroke-width="1"/>
+    <path d="m29 55 3-2 3 2-3 6Z" fill="#A9ECF4"/>
+  </g>
+  <path d="m52 8 2 2-2 2-2-2Zm4 9 1.5 1.5L56 20l-1.5-1.5Z" fill="#C4F9FF"/>
+</svg>
