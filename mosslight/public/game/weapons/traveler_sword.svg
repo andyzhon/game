@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <defs><linearGradient id="steel" x1="27" y1="14" x2="38" y2="38" gradientUnits="userSpaceOnUse"><stop stop-color="#EFF5E9"/><stop offset=".5" stop-color="#A8C9C0"/><stop offset="1" stop-color="#63847E"/></linearGradient></defs>
+  <g transform="rotate(45 32 32)" stroke="#172D29" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M32 9 37 17 36 39 28 39 27 17Z" fill="url(#steel)"/>
+    <path d="M32 11V37" stroke="#F5FFF1" stroke-width="1.2"/>
+    <path d="M32 17 36 19 35 37 32 39Z" fill="#719C91" stroke="none" opacity=".55"/>
+    <path d="M20 39 23 36 29 39H35L41 36 44 39 39 43H25Z" fill="#BFA673"/>
+    <path d="M23 39 28 41H36L41 39" stroke="#E5D7A2" stroke-width="1"/>
+    <path d="M29 43H35V53H29Z" fill="#674B38"/>
+    <path d="m29 46 6 2m-6 2 6 2" stroke="#B99865" stroke-width="1.4"/>
+    <path d="M28 53H36L35 57H29Z" fill="#BCA87E"/>
+  </g>
+</svg>

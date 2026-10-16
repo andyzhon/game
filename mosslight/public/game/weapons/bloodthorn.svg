@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <defs><linearGradient id="blood" x1="25" y1="11" x2="40" y2="40" gradientUnits="userSpaceOnUse"><stop stop-color="#FFAE93"/><stop offset=".32" stop-color="#E86462"/><stop offset="1" stop-color="#8B233E"/></linearGradient></defs>
+  <g transform="rotate(45 32 32)" stroke="#291E26" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M27 6C47 17 45 32 35 41L29 39C35 29 36 21 27 6Z" fill="url(#blood)"/>
+    <path d="M29 9C40 19 42 30 35 38" stroke="#FFB4A2" stroke-width="1.3"/>
+    <path d="m30 24-5 4 7 1-5 6 5 1" fill="#B93852"/>
+    <path d="M23 37 29 40 35 40 40 35 41 41 35 45H27L23 42Z" fill="#BFA481"/>
+    <path d="M30 44H35L34 54 29 54Z" fill="#56343D"/>
+    <path d="m30 46 4 3m-4 0 4 3" stroke="#D47674" stroke-width="1.4"/>
+    <path d="M28 53 34 53 35 56 30 59 28 56Z" fill="#AB6F68"/>
+    <path d="m31 39 3-2 2 3-3 3Z" fill="#FE9A86" stroke-width=".8"/>
+  </g>
+  <path d="m51 12 1-3 1 3 3 1-3 1-1 3-1-3-3-1Z" fill="#FFB1A0" opacity=".8"/>
+</svg>
